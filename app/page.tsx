@@ -19,7 +19,7 @@ export default function Home() {
           style={{ animationDelay: "0ms" }}
         >
           Nutrition, simplified
-        </p>
+        </p>  
 
         {/* Title */}
         <h1
